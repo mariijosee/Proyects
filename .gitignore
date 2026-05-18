@@ -1,0 +1,14 @@
+# C++ binaries and objects
+*.o
+*.exe
+*.out
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
