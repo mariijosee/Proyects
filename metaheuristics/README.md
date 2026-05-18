@@ -21,7 +21,7 @@ Utilizing advanced population-based methods to interpret "black-box" models and 
 * **Key Focus:** Boundary detection through external classifier queries, multi-objective optimization, and elite coverage analysis.
 * **Results:** Developed a methodology to approximate critical decision regions without internal model access, significantly improving model interpretability.
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Languages:** Python (Jupyter Notebooks) / C++
 * **Core Libraries:** NumPy, Pandas, Scikit-Learn, Optuna, Matplotlib/Seaborn.
 * **Methodology:** Rigorous statistical validation using non-parametric tests (Wilcoxon/Friedman) and Big O complexity analysis.
