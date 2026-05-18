@@ -8,7 +8,7 @@ This repository contains a curated selection of my most significant projects dev
 * **Maximum Diversity Problem (MDP):** Implementation of Greedy, Tabu Search, GRASP, and Genetic/Memetic algorithms to solve NP-Hard challenges.
 * **Tech:** C++, Optimization Theory.
 
-###[Advanced Algorithms](./advanced-algorithms)
+### [Advanced Algorithms](./advanced-algorithms)
 * **Paradigm Exploration:** Efficient solutions using Divide & Conquer ($O(n \log n)$), Dynamic Programming, and Backtracking.
 * **Analysis:** Empirical benchmarking and Big O complexity validation.
 * **Tech:** C++.
